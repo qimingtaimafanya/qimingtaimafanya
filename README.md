@@ -12,4 +12,6 @@ Here are some ideas to get you started:
 - 👯 分享个人的练手项目
 - 🤔 欢迎提出问题
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://github-readme-stats.vercel.app/api?username=qimingtaimafanya&theme=buefy&hide_title=true)
