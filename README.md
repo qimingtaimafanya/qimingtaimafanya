@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 👯 分享个人的练手项目
 - 🤔 欢迎提出问题
 
-![](https://github-readme-stats.vercel.app/api?username=qimingtaimafanya&theme=vue)
+![](https://github-readme-stats.vercel.app/api?username=qimingtaimafanya&theme=buefy)
