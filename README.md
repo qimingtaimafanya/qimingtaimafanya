@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=css,html,less,scss)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://github-readme-stats.vercel.app/api?username=qimingtaimafanya&theme=buefy&show_icons&hide_title=true)
+![](https://github-readme-stats.vercel.app/api?username=qimingtaimafanya&theme=buefy&show_icons=true&hide_title=true)
