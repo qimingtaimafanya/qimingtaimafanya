@@ -12,6 +12,5 @@ Here are some ideas to get you started:
 - 👯 分享个人的练手项目
 - 🤔 欢迎提出问题
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qimingtaimafanya&layout=compact&hide=css,html,less,scss)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://github-readme-stats.vercel.app/api?username=qimingtaimafanya&theme=buefy&show_icons=true&hide_title=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qimingtaimafanya&layout=compact&hide=css,html,less,scss" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=qimingtaimafanya&theme=buefy&show_icons=true&hide_title=true" align="center">
