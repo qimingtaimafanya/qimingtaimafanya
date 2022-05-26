@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 -->
 - 🔭 目前从事web前端开发
-- 🌱 正在学习typeScript...
+- 🌱 正在学习算法...
 - 👯 分享个人的练手项目
 - 🤔 欢迎提出问题
 
