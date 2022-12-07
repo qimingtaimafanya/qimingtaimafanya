@@ -8,8 +8,7 @@ Here are some ideas to get you started:
 
 -->
 - 🔭 目前从事web前端开发
-- 🌱 正在学习算法...
-- 👯 分享一些适合新手练习的项目
+- 🌱 分享一些适合新手练习的项目
 - 🤔 欢迎提出问题
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qimingtaimafanya&layout=compact&hide=css,html,less,scss" align="center">
